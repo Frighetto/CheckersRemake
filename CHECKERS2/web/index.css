@@ -1,0 +1,13 @@
+body {
+  background-color: #eee;
+}
+
+.play-checkers {
+  color:whitesmoke; 
+  background-image: url("images/boardgame.jpeg");
+}
+
+.form-signup { 
+  margin: auto; 
+  width: calc(100% / 3); 
+}

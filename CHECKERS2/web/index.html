@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt">
+    <head>
+        <title>Play Damas</title>
+        <meta charset="UTF-8">
+        <meta name="application-name" content="Play Damas">
+        <meta name="description" content="Checkers game with real players and bots">
+        <meta name="keywords" content="Players, Checkers">
+        <meta name="author" content="Lucas Fernando Frighetto">
+        <meta name="viewport" content="width=device-width, initial-scale=0.5, maximum-scale=0.5">
+        <link rel="icon" href="3828884_boardgames_crown_draughts_games_monopoly_icon.ico">
+        <link href="bootstrap.css" rel="stylesheet">
+        <link href="index.css" rel="stylesheet"> 
+    </head>    
+    <body>        
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-collapse collapse">
+                    <div class="navbar-form navbar-right form-group">
+                        <form action="signin" method="POST"> 
+                            <input name="username" type="text" placeholder="Usuário" class="form-control" maxlength="25" required>
+                            <input name="password" type="password" placeholder="Senha" class="form-control" maxlength="15" required>
+                            <button type="submit" class="btn btn-success">Entrar</button>
+                        </form> 
+                    </div>
+                </div>
+            </div>
+        </nav>        
+        <div class="jumbotron">
+            <div class="play-checkers">
+                <div class="container"> 
+                    <h1>Bem vindo!</h1>
+                    <br>
+                    <form action="visit" method="POST">
+                        <button type="submit" class="btn btn-primary btn-lg">Jogar agora ►</button>
+                    </form> 
+                    <br>
+                </div>
+            </div>
+        </div>
+        <div class="container">            
+            <form action="signup" method="POST" class="form-signup">          
+                <input name="username" type="text" class="form-control input-lg" placeholder="Usuário" maxlength="25" required autofocus>
+                <input name="password" type="password" class="form-control input-lg" placeholder="Senha" maxlength="15" required>
+                <input name="password_check" type="password" class="form-control input-lg" placeholder="Repita a senha" maxlength="15" required>
+                <button type="submit" class="btn btn-primary btn-lg btn-block">Criar conta</button>
+            </form>
+        </div>
+    </body>
+</html>

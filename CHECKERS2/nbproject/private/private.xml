@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/web/index.css</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/web/bootstrap.css</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/business/Players.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/web/index.html</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/gateway/Lobby.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/business/SignIn.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/gateway/GameInteraction.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/web/lobby.jsp</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/gateway/Game.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/business/Vencivel.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/business/Contact.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/business/Game.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/business/Visit.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/web/error.jsp</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/gateway/SignUp.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/web/game.jsp</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/business/Games.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/web/lobby.js</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/gateway/SignIn.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/web/layout.js</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/business/Messages.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/business/Lobby.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/business/SignUp.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/business/Visitor.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/web/contacts.js</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/business/AuthException.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/gateway/Message.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/web/game.js</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/business/Checkers.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/business/UsernameReservedWordException.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/business/CronTasks.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/business/UsernameException.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/business/PersistenceTransaction.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/business/Player.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/gateway/LobbyInteraction.java</file>
+            <file>file:/C:/Users/lucas/Documents/NetBeansProjects/CHECKERS2/src/java/business/StringUtils.java</file>
+        </group>
+    </open-files>
+</project-private>
